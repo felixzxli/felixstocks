@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1f1b5a4-db98-46c0-afea-90b439b9ad0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YKKCh3U15i5xiWvbf2OmdLgcnc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$DATA_PATH$/StockUpdater" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Felix\dashapp" />
+      <recent name="C:\Users\Felix\dashapp\assets" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1f1b5a4-db98-46c0-afea-90b439b9ad0e" name="Default Changelist" comment="" />
+      <created>1582686625372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582686625372</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582848650464">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="406" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1582848650464" />
+    <state x="420" y="102" key="FileChooserDialogImpl" timestamp="1582687502241">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="102" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582687502241" />
+    <state x="141" y="0" key="SettingsEditor" timestamp="1582686710301">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="141" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1582686710301" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
